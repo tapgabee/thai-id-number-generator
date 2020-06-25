@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "thai-id-number-generator",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A minimal THAI ID NUMBER GENERATOR Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -12,7 +12,9 @@
     "quick",
     "start",
     "tutorial",
-    "demo"
+    "demo",
+    "thai id number generator",
+    "thai id"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
